@@ -6,18 +6,45 @@
     <description>Recent content in Posts on Deeper Breaths</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2019 21:24:57 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://deeperbreaths.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://deeperbreaths.org/posts/my-first-post/</link>
-      <pubDate>Sun, 29 Dec 2019 21:24:57 -0600</pubDate>
+      <title>About</title>
+      <link>https://deeperbreaths.org/posts/about/about-us/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://deeperbreaths.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://deeperbreaths.org/posts/about/about-us/</guid>
+      <description>About Us </description>
+    </item>
+    
+    <item>
+      <title>Printable Example</title>
+      <link>https://deeperbreaths.org/posts/printables/test-printable/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/posts/printables/test-printable/</guid>
+      <description>Printable Example </description>
+    </item>
+    
+    <item>
+      <title>Hand Washing</title>
+      <link>https://deeperbreaths.org/posts/resources/hand-washing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/posts/resources/hand-washing/</guid>
+      <description>hand washing </description>
+    </item>
+    
+    <item>
+      <title>Treatments</title>
+      <link>https://deeperbreaths.org/posts/resources/treatments/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/posts/resources/treatments/</guid>
+      <description>treatments </description>
     </item>
     
   </channel>

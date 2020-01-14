@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resources on Deeper Breaths</title>
+    <link>https://deeperbreaths.org/categories/resources/</link>
+    <description>Recent content in resources on Deeper Breaths</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://deeperbreaths.org/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hand Washing</title>
+      <link>https://deeperbreaths.org/resources/hand-washing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/resources/hand-washing/</guid>
+      <description>hand washing </description>
+    </item>
+    
+    <item>
+      <title>Treatments</title>
+      <link>https://deeperbreaths.org/resources/treatments/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/resources/treatments/</guid>
+      <description>treatments </description>
+    </item>
+    
+  </channel>
+</rss>

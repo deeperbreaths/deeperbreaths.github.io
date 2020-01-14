@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Printables on Deeper Breaths</title>
+    <link>https://deeperbreaths.org/printables/</link>
+    <description>Recent content in Printables on Deeper Breaths</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jan 2020 21:06:28 -0600</lastBuildDate>
+    
+	<atom:link href="https://deeperbreaths.org/printables/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>form letters</title>
+      <link>https://deeperbreaths.org/printables/form-letters/</link>
+      <pubDate>Mon, 13 Jan 2020 21:06:28 -0600</pubDate>
+      
+      <guid>https://deeperbreaths.org/printables/form-letters/</guid>
+      <description>form letters </description>
+    </item>
+    
+    <item>
+      <title>medication schedule</title>
+      <link>https://deeperbreaths.org/printables/medication-schedule/</link>
+      <pubDate>Fri, 10 Jan 2020 21:06:28 -0600</pubDate>
+      
+      <guid>https://deeperbreaths.org/printables/medication-schedule/</guid>
+      <description>medication schedule </description>
+    </item>
+    
+    <item>
+      <title>Printable Example</title>
+      <link>https://deeperbreaths.org/printables/test-printable/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/printables/test-printable/</guid>
+      <description>Printable Example </description>
+    </item>
+    
+  </channel>
+</rss>

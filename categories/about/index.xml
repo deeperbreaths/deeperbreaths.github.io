@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Deeper Breaths</title>
+    <link>https://deeperbreaths.org/categories/about/</link>
+    <description>Recent content in about on Deeper Breaths</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://deeperbreaths.org/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://deeperbreaths.org/about/about-us/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/about/about-us/</guid>
+      <description>About Us Hello! We are Karen and Steve, parents of soon-to-be six kids, two of whom are diagnosed with Primary Ciliary Dyskinesia. We will see about the sixth after he is born! We have been navigating the space and lifestyle of airway clearance treatments for almost six years now, and thought that we could share some things we have learned along the way. Stop in, explore, and learn how to live a full life by taking deeper breaths!</description>
+    </item>
+    
+  </channel>
+</rss>

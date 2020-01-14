@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://deeperbreaths.org/faq/</loc>
+    <lastmod>2020-01-13T21:06:28-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://deeperbreaths.org/printables/</loc>
     <lastmod>2020-01-13T21:06:28-06:00</lastmod>
   </url>
@@ -43,7 +48,22 @@
   </url>
   
   <url>
+    <loc>https://deeperbreaths.org/resources/from-our-kids-to-your-kids/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deeperbreaths.org/tags/ideas/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://deeperbreaths.org/tags/information/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deeperbreaths.org/tags/kids/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,7 +103,17 @@
   </url>
   
   <url>
+    <loc>https://deeperbreaths.org/resources/setting-up-for-success/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://deeperbreaths.org/tags/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deeperbreaths.org/tags/tools/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,12 +153,12 @@
   </url>
   
   <url>
-    <loc>https://deeperbreaths.org/tags/about/</loc>
+    <loc>https://deeperbreaths.org/categories/about/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://deeperbreaths.org/categories/about/</loc>
+    <loc>https://deeperbreaths.org/tags/about/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   

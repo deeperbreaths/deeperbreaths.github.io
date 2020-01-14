@@ -6,10 +6,64 @@
     <description>Recent content in Tags on Deeper Breaths</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://deeperbreaths.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>information</title>
+      <link>https://deeperbreaths.org/tags/information/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/tags/information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>https://deeperbreaths.org/tags/learning/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motivation</title>
+      <link>https://deeperbreaths.org/tags/motivation/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/tags/motivation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nebs</title>
+      <link>https://deeperbreaths.org/tags/nebs/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/tags/nebs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>treatments</title>
+      <link>https://deeperbreaths.org/tags/treatments/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/tags/treatments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vest</title>
+      <link>https://deeperbreaths.org/tags/vest/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/tags/vest/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>form</title>
@@ -44,33 +98,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://deeperbreaths.org/tags/hygeine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nebs</title>
-      <link>https://deeperbreaths.org/tags/nebs/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://deeperbreaths.org/tags/nebs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>treatments</title>
-      <link>https://deeperbreaths.org/tags/treatments/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://deeperbreaths.org/tags/treatments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vest</title>
-      <link>https://deeperbreaths.org/tags/vest/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://deeperbreaths.org/tags/vest/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning on Deeper Breaths</title>
+    <link>https://deeperbreaths.org/tags/learning/</link>
+    <description>Recent content in learning on Deeper Breaths</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://deeperbreaths.org/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning</title>
+      <link>https://deeperbreaths.org/resources/learning/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/resources/learning/</guid>
+      <description>Learning websites for medical information:  pcdfoundation cff copd foundation  </description>
+    </item>
+    
+    <item>
+      <title>Motivation</title>
+      <link>https://deeperbreaths.org/resources/motivational/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/resources/motivational/</guid>
+      <description>Motivational/inspirational: www.runningonair.net Mary is an inspiring PCD warrior, living life at full saturation!
+Child-authored book, PCD Has Nothing on Me. by Chloe Ferndandez
+Search on instagram or facebook, hashtags
+ #airwayclearancetherapy #primaryciliarydyskinesia #pcd #cysticfibrosis  Cystic Fibrosis has far more resources surrounding aiway clearance and hospitalization support, as it is more well-known, researched, and public. Primary Ciliary Dyskinesia is still in the newer stages of diagnosis and research, but every moment that passes, more learning is happening!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Deeper Breaths</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://deeperbreaths.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>doctor</title>
+      <link>https://deeperbreaths.org/tags/doctor/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/tags/doctor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hospital</title>
+      <link>https://deeperbreaths.org/tags/hospital/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/tags/hospital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>questions</title>
+      <link>https://deeperbreaths.org/tags/questions/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/tags/questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>treatments</title>
+      <link>https://deeperbreaths.org/tags/treatments/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deeperbreaths.org/tags/treatments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bills</title>
@@ -17,15 +53,6 @@
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://deeperbreaths.org/tags/bills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hospital</title>
-      <link>https://deeperbreaths.org/tags/hospital/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://deeperbreaths.org/tags/hospital/</guid>
       <description></description>
     </item>
     
@@ -44,15 +71,6 @@
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://deeperbreaths.org/tags/nebs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>treatments</title>
-      <link>https://deeperbreaths.org/tags/treatments/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://deeperbreaths.org/tags/treatments/</guid>
       <description></description>
     </item>
     
